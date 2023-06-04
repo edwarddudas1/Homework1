@@ -1,0 +1,59 @@
+* {
+    background-color: #E5E5E5;
+}
+#head{
+    text-align: center;
+    margin-top: 72px;
+    font-family: 'Playfair Display', serif;
+}
+
+.main{
+    margin-left: 148px;
+    margin-top: 92px;
+}
+
+a {
+    text-decoration: none;
+    color: #7D7D7D;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.lf{
+    color: #03A9F4;
+    margin-right: 100px;
+}
+.photo{
+    margin-right: 100px;
+}
+.music{
+    margin-right: 100px;
+}
+.life{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    color: #B4AD9E;
+    line-height: 16px;
+    margin-top: 62px;
+}
+.name{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+    margin-top: 32px;
+}
+.lorem{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+    margin-top: 40px;
+}
